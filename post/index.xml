@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on 胡涛的博客</title>
+    <link>http://liwenbhutao.github.io/liwenbhutao/post/index.xml</link>
+    <description>Recent content in Post-rsses on 胡涛的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2016 17:21:23 +0800</lastBuildDate>
+    <atom:link href="http://liwenbhutao.github.io/liwenbhutao/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>a</title>
+      <link>http://liwenbhutao.github.io/liwenbhutao/2016/11/a/</link>
+      <pubDate>Fri, 18 Nov 2016 17:21:23 +0800</pubDate>
+      
+      <guid>http://liwenbhutao.github.io/liwenbhutao/2016/11/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitro: A quick and simple profiler for Go</title>
+      <link>http://liwenbhutao.github.io/liwenbhutao/2013/06/nitro/</link>
+      <pubDate>Fri, 21 Jun 2013 11:27:27 -0400</pubDate>
+      
+      <guid>http://liwenbhutao.github.io/liwenbhutao/2013/06/nitro/</guid>
+      <description>&lt;p&gt;#hugo undraft content/post&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
